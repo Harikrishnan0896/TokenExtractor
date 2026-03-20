@@ -1,0 +1,10 @@
+[
+  {
+    "name": "fg.default",
+    "value": "rgba(0,0,0,1)"
+  },
+  {
+    "name": "bg.default",
+    "value": "rgba(255,255,255,1)"
+  }
+]
