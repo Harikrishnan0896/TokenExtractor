@@ -1,0 +1,31 @@
+{
+  "Button": {
+    "fills": [
+      "Int.Fill.Default.Strong",
+      "Text.Inverse Strong"
+    ],
+    "strokes": [
+      "Icon.Inverse Strong"
+    ],
+    "spacing": [
+      "Spacing.SP20"
+    ],
+    "effects": []
+  },
+  "Prefix Icons": {
+    "fills": [],
+    "strokes": [
+      "Icon.Inverse Strong"
+    ],
+    "spacing": [],
+    "effects": []
+  },
+  "Suffix Icons": {
+    "fills": [],
+    "strokes": [
+      "Icon.Inverse Strong"
+    ],
+    "spacing": [],
+    "effects": []
+  }
+}
