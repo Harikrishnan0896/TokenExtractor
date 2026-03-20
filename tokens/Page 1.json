@@ -1,0 +1,29 @@
+{
+  "Empty State": {
+    "fills": [
+      "Text.Medium"
+    ]
+  },
+  "Dropdown Field": {
+    "fills": [
+      "Surface.Fill.Raised 0",
+      "Int.Fill.Default.Weak",
+      "Icon.Inverse Strong",
+      "Text.Strong",
+      "Int.Fill.Hover.Weak"
+    ]
+  },
+  "_Dropdown Menu Base": {
+    "fills": [
+      "Int.Fill.Default.Weak",
+      "Icon.Inverse Strong",
+      "Text.Strong"
+    ]
+  },
+  "Checkbox Base": {
+    "fills": [
+      "Int.Fill.Default.Weak",
+      "Icon.Inverse Strong"
+    ]
+  }
+}
